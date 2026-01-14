@@ -1,4 +1,4 @@
-# Automation by ABAQUS + Python script for phononic bandgap computation
+# Mechanical Wave transmission in continnum and perodical metamaterials: Simulaiton by ABAQUS + Python + batch phononic bandgap computation
 
 
 ## Contributor
